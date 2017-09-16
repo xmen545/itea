@@ -45,4 +45,4 @@ $photographer_action_3->shoot();
 $photographer_action_4 = new Pan();
 $photographer_action_4->shoot();
 //end Call
-?>`
+?>
